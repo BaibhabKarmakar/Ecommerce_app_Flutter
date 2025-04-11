@@ -30,3 +30,11 @@ Not quite ready for Amazon, but it *does* know how to troll the developer who fo
 1. **Clone the repository**
    ```bash
     https://github.com/BaibhabKarmakar/Ecommerce_app_Flutter
+
+2. **Navigate into the project directory**
+   ```bash
+    cd Ecommerce_app_Flutter
+3. **Install dependencies and run the app**
+   ```bash
+    flutter pub get
+    flutter run
