@@ -1,16 +1,31 @@
-# e_commerce_app
+# 🛒 Mini eCommerce App (Flutter)
 
-A new Flutter project.
+A simple yet functional eCommerce app built using Flutter.  
+Not quite ready for Amazon, but it *does* know how to troll the developer who forgot to connect a backend. 😄
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧾 Product listing with hardcoded models
+- 📦 Asset-based product images
+- 🛍️ Add-to-Cart functionality
+- 🛒 Cart screen with list of selected products
+- 💸 “PAY NOW” button with a humorous mock alert:
+  > *"Hey! User willing to Pay. You connect the app with the payment backend, you idiot!"*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 What I Learned
+
+- Flutter widget tree & layout building  
+- Using `Provider` for state management  
+- Asset handling and image rendering  
+- Creating and managing custom models (Product & Cart)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
