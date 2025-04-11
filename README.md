@@ -38,3 +38,21 @@ Not quite ready for Amazon, but it *does* know how to troll the developer who fo
    ```bash
     flutter pub get
     flutter run
+
+🤔 What’s Next?
+	•	Integrate Firebase or any backend service
+	•	Add user authentication
+	•	Enable real payment gateways
+	•	Dynamic product data instead of hardcoded models
+
+😄 Fun Fact
+
+This app mocks the developer on clicking “Pay Now”—
+because hey, learning should be fun!
+
+💬 Feedback?
+Feel free to open an issue or reach out on LinkedIn — always open to suggestions and collaboration!
+
+🧑‍💻 Author
+Baibhab Karmakar
+Flutter enthusiast | Full Stack Dev | Learner for life
