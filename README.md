@@ -29,3 +29,4 @@ Not quite ready for Amazon, but it *does* know how to troll the developer who fo
 
 1. **Clone the repository**
    ```bash
+    https://github.com/BaibhabKarmakar/Ecommerce_app_Flutter
